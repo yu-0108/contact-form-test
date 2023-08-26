@@ -15,7 +15,7 @@
 トップページに戻るボタンも実装。
 <img width="1440" alt="スクリーンショット 2023-08-27 0 39 28" src="https://github.com/yu-0108/contact-form-test/assets/135131310/644210d8-e2c9-407f-8bea-16ff8aeab944">
 
-・使用技術
+・使用技術</br>
 Laravel　8.*
 
 
